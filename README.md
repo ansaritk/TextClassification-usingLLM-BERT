@@ -13,10 +13,10 @@ This project is a machine learning solution built to classify IMDB movie reviews
 3) Evaluation: After training, the model evaluates itself on a separate validation set, outputting accuracy.
 
 ## Prerequisites
-Python 3.x
-Hugging Face transformers library
-Datasets (IMDB) compatible with Hugging Face datasets
-PyTorch or TensorFlow backend (depending on the model used)
+- Python 3.x
+- Hugging Face transformers library
+- Datasets (IMDB) compatible with Hugging Face datasets
+- PyTorch or TensorFlow backend (depending on the model used)
 
 ## How to use
 1) Clone the repository:
