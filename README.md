@@ -20,7 +20,7 @@ PyTorch or TensorFlow backend (depending on the model used)
 
 ## How to use
 1) Clone the repository:
-git clone https://github.com/ansaritk/TextClassification-usingLLM-BERT.git
+git clone https://github.com/ansaritk/TextClassificationUsingLLM-BERT.git
 2) Install dependencies:
 pip install -r requirements.txt
 3) Run the training script to fine-tune the transformer model:
