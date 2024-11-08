@@ -1,0 +1,4 @@
+transformers[sentencepiece]
+datasets
+torch
+scikit-learn  # Optional, only if you plan to use custom metrics for evaluation
